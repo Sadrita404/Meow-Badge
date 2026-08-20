@@ -1,8 +1,8 @@
 ---
 title: Meow Badge
-description: It's a simple PCB badge that consist of two leds that works as the eye of the Cat..
+description: It's a simple PCB badge that consist of two leds that works as the eye of the Cat it also had two nfc tags..
 created_at: "2026-09-19"
-Total Time Spent : 3
+Total Time Spent : 3.5
 
 ---
 
@@ -65,3 +65,17 @@ This took me a lot of time
 
 
 **Total time spent: 2h**
+
+---
+
+## making the banner image in Canva
+
+
+
+<img width="1435" height="633" alt="Screenshot 2026-08-20 at 4 20 04 PM" src="https://github.com/user-attachments/assets/6e7b6445-9a2f-4bf4-9d38-0cb32b1bb93d" />
+
+
+<img width="1920" height="1080" alt="banner" src="https://github.com/user-attachments/assets/b3313203-e523-4105-b7d6-9af14a73d516" />
+
+
+**Total time spent: 0.5h**
